@@ -33,10 +33,7 @@ const Header = () => {
     >
       <nav className="container mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
-          <Link
-            href="/"
-            className="flex items-center gap-3 hover:opacity-80 transition-opacity"
-          >
+          <div className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <div className="w-10 h-10 rounded-full overflow-hidden border-2 border-white shadow-lg">
               <Image
                 src="https://raw.githubusercontent.com/shauryag2002/portfolio/main/public/shaurya.jpg"
@@ -49,7 +46,7 @@ const Header = () => {
             <span className="text-xl font-bold text-gray-800 hover:text-blue-600 transition-colors">
               Shaurya Gupta
             </span>
-          </Link>
+          </div>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8">
