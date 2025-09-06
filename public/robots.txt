@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shauryagupta.dev/sitemap.xml
+Sitemap: https://shauryag2002.github.io/portfolio/sitemap.xml

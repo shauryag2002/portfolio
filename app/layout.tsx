@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: "Shaurya Gupta - Software Engineer",
     description:
       "Software engineer experienced in building scalable and responsive web and mobile applications",
-    url: "https://shauryagarg.dev",
+    url: "https://shauryag2002.github.io/portfolio/",
     siteName: "Shaurya Gupta Portfolio",
     images: [
       {

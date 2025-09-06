@@ -9,7 +9,7 @@
 
 A beautiful, responsive portfolio website showcasing my journey as a **Software Engineer** and **Full Stack Developer**. Built with modern web technologies and optimized for performance.
 
-[🌐 **Live Demo**](github pages link) • [📧 **Contact Me**](mailto:guptashaurya2002@gmail.com) • [💼 **LinkedIn**](https://linkedin.com/in/shauryag2002)
+[🌐 **Live Demo**](https://shauryag2002.github.io/portfolio/) • [📧 **Contact Me**](mailto:guptashaurya2002@gmail.com) • [💼 **LinkedIn**](https://linkedin.com/in/shauryag2002)
 
 </div>
 
@@ -308,7 +308,7 @@ Software Engineer & Full Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-shauryag2002-black?style=for-the-badge&logo=github)](https://github.com/shauryag2002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shauryag2002-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shauryag2002)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shauryagupta.dev-green?style=for-the-badge&logo=vercel)](https://shauryagupta.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shauryagupta.dev-green?style=for-the-badge&logo=vercel)](https://shauryag2002.github.io/portfolio/)
 
 </div>
 
