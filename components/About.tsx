@@ -15,7 +15,7 @@ const About = () => {
               <div className="relative">
                 <div className="w-80 h-80 rounded-2xl overflow-hidden shadow-2xl">
                   <Image
-                    src="/shaurya.jpg"
+                    src="https://raw.githubusercontent.com/shauryag2002/portfolio/main/public/shaurya.jpg"
                     alt="Shaurya Gupta - About Photo"
                     width={320}
                     height={320}

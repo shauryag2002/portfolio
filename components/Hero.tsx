@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="mb-8">
             <div className="w-48 h-48 mx-auto rounded-full overflow-hidden shadow-2xl border-4 border-white">
               <Image
-                src="/shaurya.jpg"
+                src="https://raw.githubusercontent.com/shauryag2002/portfolio/main/public/shaurya.jpg"
                 alt="Shaurya Gupta - Software Engineer"
                 width={192}
                 height={192}

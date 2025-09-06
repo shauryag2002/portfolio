@@ -26,6 +26,14 @@ export const metadata: Metadata = {
       "Software engineer experienced in building scalable and responsive web and mobile applications",
     url: "https://shauryagarg.dev",
     siteName: "Shaurya Gupta Portfolio",
+    images: [
+      {
+        url: "https://raw.githubusercontent.com/shauryag2002/portfolio/main/public/shaurya.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Shaurya Garg - Software Engineer",
+      },
+    ],
     locale: "en_US",
     type: "website",
   },
@@ -34,6 +42,9 @@ export const metadata: Metadata = {
     title: "Shaurya Gupta - Software Engineer",
     description:
       "Software engineer experienced in building scalable and responsive web and mobile applications",
+    images: [
+      "https://raw.githubusercontent.com/shauryag2002/portfolio/main/public/shaurya.jpg",
+    ],
   },
 };
 

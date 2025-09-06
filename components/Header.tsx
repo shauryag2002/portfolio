@@ -39,7 +39,7 @@ const Header = () => {
           >
             <div className="w-10 h-10 rounded-full overflow-hidden border-2 border-white shadow-lg">
               <Image
-                src="/shaurya.jpg"
+                src="https://raw.githubusercontent.com/shauryag2002/portfolio/main/public/shaurya.jpg"
                 alt="Shaurya Gupta"
                 width={40}
                 height={40}
